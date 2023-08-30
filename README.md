@@ -9,7 +9,7 @@ The fork was needed because we plan to extend this code to add additional featur
 The following content is identical to the original code base, and we have not done any changes yet, but we have worked with the code for several months now.
 We are writing this on August 2023.
 
-This code resides on GitHub here: [https://github.com/josephgranata/upload-file]https://github.com/josephgranata/upload-file.
+This code resides on GitHub here: https://github.com/josephgranata/upload-file.
 The fork came from the original author [here](https://github.com/cybrowl/upload-file), it's MIT Licensed are we are keeping the same license.
 
 ## Problem
