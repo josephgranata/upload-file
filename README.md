@@ -1,6 +1,13 @@
 # File Upload
 
-This code is a tutorial on best practices in response to Bounty 45 from ICDevs.
+## Why the Fork of the Code
+We have forked this code from cybrowl to use it as the basis of an IC codebase to upload files for a project called SatoshiNotes.
+SatoshiNotes is a private repository for now.
+
+The fork was needed because we plan to extend this code to add additional features, and also to provide a repository for our own work.
+
+The following content is identical to the original code base, and we have not done any changes yet, but we have worked with the code for several months now.
+We are writing this on August 2023.
 
 ## Problem
 
